@@ -1,4 +1,8 @@
-﻿using SpaceObjects;
+﻿// Zach Dillion
+// James Odjewuyi
+// Program 5
+// Space Objects
+using SpaceObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
